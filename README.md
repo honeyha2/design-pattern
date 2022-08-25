@@ -1,2 +1,2 @@
 # design-pattern
-some exercises~
+some exercises
